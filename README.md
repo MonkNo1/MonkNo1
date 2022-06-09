@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monk</h1>
-<h3 align="center">A passionate a Cyber Security and developement 👨‍💻 Gaining knowledge since 2017 🚀</h3>
+<h3 align="center">A passionate Cyber Security and developement 👨‍💻 Gaining knowledge since 2017 🚀</h3>
 
 ----
 
