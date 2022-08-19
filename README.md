@@ -92,7 +92,7 @@
 </div>  
 
 <div align="center">
-<script src="https://tryhackme.com/badge/137199"></script>
+<script src="https://tryhackme.com/badge/137199"> </script>
 </div>  
   
 
