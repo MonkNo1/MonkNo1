@@ -45,7 +45,8 @@
 
 </td><td valign="top" width="33%">
 
-<img src="[https://github-readme-stats.vercel.app/api?username=MonkNo1&show_icons=true&count_private=true&hide_border=true](https://streak-stats.demolab.com?user=MonkNo1&theme=monokai&mode=weekly&hide_current_streak=true&hide_longest_streak=true)" align="left" />
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MonkNo1&theme=monokai&mode=weekly&hide_current_streak=true&hide_longest_streak=true"  align="left" alt="GitHub Streak" /></a>
 
 </td></tr></table>  
 
