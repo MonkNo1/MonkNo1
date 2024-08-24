@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning security and Realtime problem solving applications   
   
-- 📫 You can reach me ON **Discord or any Social Media : Monk#2749**
+- 📫 You can reach me ON **Discord or any Social Media : monk2749**
 
 - ⚡ I am Active Discord User   
   
