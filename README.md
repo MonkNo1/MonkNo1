@@ -79,8 +79,13 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31auxze2i3hfjls6jtwysn2g4joe&cover_image=true&theme=default" /></div>  
-
+  <p align="center">
+    <a href="https://github.com/MonkNo1"><span>
+        <img align="center"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MonkNo1&theme=github_dark" width="100%" />
+      </span></a>
+  </p>
+  
 <br/>  
 
 <div align="center">
